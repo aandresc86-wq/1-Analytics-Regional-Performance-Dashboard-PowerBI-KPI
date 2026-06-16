@@ -1,4 +1,4 @@
-# 📊 Regional Performance Dashboard (Heatmap) | Power BI, API & Excel Integration
+# 📊 Data Analytics Project | Regional Performance Dashboard (Power BI)
 
 ## 🚀 Overview
 This project presents an **interactive Power BI dashboard** designed for **regional performance analysis**, **KPI monitoring**, and **real-time data integration**.  
