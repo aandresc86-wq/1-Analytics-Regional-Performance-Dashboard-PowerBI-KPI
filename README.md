@@ -7,6 +7,19 @@ The solution combines multiple data sources, including **Excel datasets** and **
 
 ---
 
+## 🎯 Business Problem  
+Organizations operating across multiple regions need a clear and centralized way to monitor performance, identify underperforming areas, and track KPIs to support strategic decision-making.
+
+---
+
+## ✅ Business Impact  
+- Enabled real-time visibility of regional KPIs and performance trends  
+- Improved decision-making by highlighting performance gaps across locations  
+- Reduced manual reporting efforts through centralized interactive dashboards  
+- Facilitated faster identification of operational inefficiencies  
+
+---
+
 ## 🎯 Business Context
 Organizations operating across multiple regions require accurate and real-time visibility into performance metrics.  
 
