@@ -12,13 +12,15 @@ Organizations operating across multiple regions need a clear and centralized way
 
 ---
 
-## ✅ Business Impact  
-- Enabled real-time visibility of regional KPIs and performance trends  
-- Improved decision-making by highlighting performance gaps across locations  
-- Reduced manual reporting efforts through centralized interactive dashboards  
-- Facilitated faster identification of operational inefficiencies  
+## 💼 Business Impact
+- Enabled **real-time performance tracking**
+- Reduced manual reporting through **automated integration**
+- Improved **decision-making speed**
+- Enhanced visibility of **regional performance trends**
+- Supported **compliance and KPI monitoring**
 
 ---
+
 
 ## 🎯 Business Context
 Organizations operating across multiple regions require accurate and real-time visibility into performance metrics.  
@@ -121,15 +123,6 @@ The development followed a typical **data analytics workflow**:
 - **Dashboard Development**
 - **Conditional Formatting**
 - **Trend Analysis**
-
----
-
-## 💼 Business Impact
-- Enabled **real-time performance tracking**
-- Reduced manual reporting through **automated integration**
-- Improved **decision-making speed**
-- Enhanced visibility of **regional performance trends**
-- Supported **compliance and KPI monitoring**
 
 ---
 
